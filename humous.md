@@ -1,5 +1,5 @@
 #ingredients
-chcickpeas
+chickpeas
 garic
 lemon
 oliveoil
